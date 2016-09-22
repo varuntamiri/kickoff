@@ -8,6 +8,7 @@
     <artifactId>spring-boot-security-workflow</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <filename>workflow</filename>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
