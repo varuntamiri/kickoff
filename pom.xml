@@ -67,6 +67,6 @@
 
     </dependencies>
     <build>
-         <fileName>workflow</fileName>
+         <finalName>workflow</finalName>
     </build>
 </project>
